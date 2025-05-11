@@ -2,7 +2,7 @@
 
 A simple and lightweight music player for testing purposes.
 
-![Relapsify Mini Screenshot](image-1.png)
+![Relapsify Mini Screenshot](./src/assets/screenshot/ss-preview.png)
 
 ## About
 
